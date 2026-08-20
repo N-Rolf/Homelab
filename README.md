@@ -31,7 +31,7 @@ A single physical server and custom-built router being built into a small enterp
 
 ## Architecture
 
-![Diagram](https://raw.githubusercontent.com/N-Rolf/Homelab/main/images/networkDiagram01.jpg)
+![Diagram](https://raw.githubusercontent.com/N-Rolf/Homelab/main/images/networkDiagram01-1.jpg)
 
 **Current hardware:** Dell OptiPlex 7060 SFF — Intel i7-8700 (6C/12T), 32GB RAM, 512GB NVMe (Proxmox boot/VM disk) + 8TB Seagate IronWolf (bulk storage). 
 
