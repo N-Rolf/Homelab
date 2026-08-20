@@ -1,5 +1,5 @@
 # Homelab
-A single physical server being built out, phase by phase, into a small enterprise-style environment — storage, networking with VLANs, Active Directory, a SIEM, a ticketing system, and monitoring. Built to demonstrate practical IT skills for help desk / sysadmin / network roles.
+A single physical server and custom-built router being built into a small enterprise-style environment — storage, networking with VLANs, Active Directory, a SIEM, a ticketing system, and monitoring. Built to demonstrate practical IT skills for help desk / sysadmin / network roles.
 
 ## Table of Contents
 - [Apps](link) - an overview of currently installed apps and services
