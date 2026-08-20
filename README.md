@@ -3,8 +3,8 @@ A single physical server being built out, phase by phase, into a small enterpris
 
 ## Table of Contents
 - [Apps](link) - an overview of currently installed apps and services
-- [Overview](link) - Hardware, hypervisor, and initial setup
-- [Media Server](link) - Samba, Jellyfin
+- [Overview](https://github.com/N-Rolf/Homelab/tree/main/docs/overview) - Hardware, hypervisor, and initial setup
+- [Media Server](https://github.com/N-Rolf/Homelab/tree/main/docs/storage-and-media) - Samba, Jellyfin
 - [Cloud](link) - NextCloud
 - [Docker](link) - Gitea, Immich, Vaultwarden, Portainer
 - [Networking](link) - Hardware, opnSense, VLAN, VPN, Firewall
