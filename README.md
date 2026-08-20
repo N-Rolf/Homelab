@@ -2,11 +2,11 @@
 A single physical server and custom-built router being built into a small enterprise-style environment — storage, networking with VLANs, Active Directory, a SIEM, a ticketing system, and monitoring. Built to demonstrate practical IT skills for help desk / sysadmin / network roles.
 
 ## Table of Contents
-- [Apps](link) - an overview of currently installed apps and services
+- [Apps](https://github.com/N-Rolf/Homelab/tree/main/docs/apps) - an overview of currently installed apps and services
 - [Overview](https://github.com/N-Rolf/Homelab/tree/main/docs/overview) - Hardware, hypervisor, and initial setup
 - [Media Server](https://github.com/N-Rolf/Homelab/tree/main/docs/storage-and-media) - Samba, Jellyfin
 - [Cloud](link) - NextCloud
-- [Docker](link) - Gitea, Immich, Vaultwarden, Portainer
+- [Docker](link) - Gitea, Immich, Vaultwarden
 - [Networking](link) - Hardware, opnSense, VLAN, VPN, Firewall
 - [Windows AD](link) - Windows server
 - [Security](link) - Security, Wazuh
