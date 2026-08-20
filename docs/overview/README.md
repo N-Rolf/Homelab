@@ -25,7 +25,7 @@ Key settings changed from default:
 - Wake on LAN disabled, AC Recovery set to Power On
 
 ## Problems hit / lessons learned
-I Quickly found that the thermal paste for the CPU was dried out. Fresh thermal paste was applied and temperatures returned to normal. The NAS HDD was installed and would reach tempuratures above the recommended range.
+I quickly found that the thermal paste for the CPU was dried out. Fresh thermal paste was applied and temperatures returned to normal. The NAS HDD was installed and would reach tempuratures above the recommended range.
 The small form factor case had inadequate airflow for such a hard drive. The CD tray and side panel have been removed and case intrusion mechanism has been disabled. As a temporary/testing solution, a 120mm fan was 
 added where the side panel was removed and powered from the CPU fan splitter. This solved the hard drive thermal issues. Modification or rebuilding of the side panel has been placed on a future task list.
 
