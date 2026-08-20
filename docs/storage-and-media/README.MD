@@ -16,12 +16,11 @@
 
 
 ### Media server — Jellyfin LXC
-[Image](link)
 - Unprivileged LXC (CT 100), 2 vCPU / 2GB RAM, static IP `192.168.0.237/24`
 - Same 8TB HDD bind-mounted read (or read/write) into the container at `/mnt/media`
 - **Hardware transcoding:** passed the Intel UHD 630 render node through to the unprivileged container via `/etc/pve/lxc/100.conf` (`lxc.cgroup2.devices.allow` + `lxc.mount.entry` for `/dev/dri/card0` and `/dev/dri/renderD128`), and mapped host `render`/`video` group into the container's `jellyfin` user
 - Verified with `ls -la /dev/dri` inside the container and confirmed Quick Sync engages instead of falling back to software transcode
-
+https://github.com/N-Rolf/Homelab/blob/main/images/jellyfin.png
 
 ## Problems hit / lessons learned
 - I previously used this drive with OpenMediaVault (OMV) and hoped to simply migrate it to the new machine. OpenMediaVault wraps drive formats in a gpt format for OMV's permissions structure. This gpt wrapper required workarounds like kpartx to see the underlying ext4 format. For the sake of long-term 
