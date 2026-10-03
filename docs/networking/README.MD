@@ -9,7 +9,7 @@
 **Hardware**
 
 | Component | Spec |
-|---|---|---|
+|---|---|
 | Chassis | Lenovo ThinkCentre M720q (Tiny) |
 | CPU | Intel i5-8500 (6 cores) |
 | RAM | 16GB |
