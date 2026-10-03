@@ -7,7 +7,7 @@ A single physical server and custom-built router being built into a small enterp
 - [Media Server](https://github.com/N-Rolf/Homelab/tree/main/docs/storage-and-media) - Samba, Jellyfin
 - [Cloud](link) - NextCloud
 - [Docker](link) - Gitea, Immich, Vaultwarden
-- [Networking](link) - Hardware, opnSense, VLAN, VPN, Firewall
+- [Networking](https://github.com/N-Rolf/Homelab/tree/main/docs/networking)) - Hardware, opnSense, VLAN, VPN, Firewall
 - [Windows AD](link) - Windows server
 - [Security](link) - Security, Wazuh
 - [IT Operations](link) - Ticketing, backups
