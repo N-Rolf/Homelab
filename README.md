@@ -34,8 +34,8 @@ A single physical server and custom-built router being built into a small enterp
 ![Diagram](https://raw.githubusercontent.com/N-Rolf/Homelab/main/images/networkDiagram02.jpg)
 
 **Current hardware:** 
-Router - Lenovo ThinkCentre M720q, Intel i5-8500, 16GB RAM, 256GB NVMe, Intel i350-t4
-Server - Dell OptiPlex 7060 SFF — Intel i7-8700 (6C/12T), 32GB RAM, 512GB NVMe (Proxmox boot/VM disk) + 8TB Seagate IronWolf (bulk storage) 
+- Router - Lenovo ThinkCentre M720q, Intel i5-8500, 16GB RAM, 256GB NVMe, Intel i350-t4
+- Server - Dell OptiPlex 7060 SFF — Intel i7-8700 (6C/12T), 32GB RAM, 512GB NVMe (Proxmox boot/VM disk) + 8TB Seagate IronWolf (bulk storage) 
 
 ---
 
