@@ -22,7 +22,7 @@ A single physical server and custom-built router being built into a small enterp
 | Storage & Media | Samba, Jellyfin | ✅ Done |
 | Cloud | NextCloud | ⬜ Not started |
 | Docker Services | Gitea, Immich, Vaultwarden, Portainer | 🟡 In progress |
-| Networking | VLANs, OPNsense, VPN, Firewall | ⬜ Not started, Awaiting Hardware |
+| Networking | VLANs, OPNsense, VPN, Firewall | 🟡 In progress |
 | Windows Server | AD, GPO's | ⬜ Not started |
 | Security | Wazuh | ⬜ Not started |
 | IT | ticketing, backups | ⬜ Not started |
@@ -31,9 +31,11 @@ A single physical server and custom-built router being built into a small enterp
 
 ## Architecture
 
-![Diagram](https://raw.githubusercontent.com/N-Rolf/Homelab/main/images/networkDiagram01-1.jpg)
+![Diagram](https://raw.githubusercontent.com/N-Rolf/Homelab/main/images/networkDiagram02.jpg)
 
-**Current hardware:** Dell OptiPlex 7060 SFF — Intel i7-8700 (6C/12T), 32GB RAM, 512GB NVMe (Proxmox boot/VM disk) + 8TB Seagate IronWolf (bulk storage). 
+**Current hardware:** 
+Router - Lenovo ThinkCentre M720q, Intel i5-8500, 16GB RAM, 256GB NVMe, Intel i350-t4
+Server - Dell OptiPlex 7060 SFF — Intel i7-8700 (6C/12T), 32GB RAM, 512GB NVMe (Proxmox boot/VM disk) + 8TB Seagate IronWolf (bulk storage) 
 
 ---
 
